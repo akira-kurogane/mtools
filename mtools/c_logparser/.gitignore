@@ -1,2 +1,5 @@
 /mlogparser
 /junk
+/callgrind.out.*
+/cachegrind.out.*
+/*.o
